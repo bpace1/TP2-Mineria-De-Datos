@@ -3,3 +3,6 @@ numpy
 seaborn
 pandas
 plotly
+scikit-learn
+graphviz
+plotly
