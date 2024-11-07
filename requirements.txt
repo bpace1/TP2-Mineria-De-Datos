@@ -3,3 +3,6 @@ numpy
 seaborn
 pandas
 plotly
+graphviz
+scikit-learn
+nbformat==4.2.0
