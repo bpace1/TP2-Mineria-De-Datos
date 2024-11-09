@@ -11,7 +11,7 @@
 1. Clonar el repositorio y abrir la carpeta.
 
 ```sh
-git clone https://github.com/pace-bruno/TP2-Mineria-De-Datos.git
+git clone https://github.com/bpace1/TP2-Mineria-De-Datos.git
 cd TP2-Mineria-De-Datos
 
 ```
